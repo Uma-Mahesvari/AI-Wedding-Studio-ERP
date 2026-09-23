@@ -15,4 +15,3 @@ studio operations.
 - REST APIs
 - Swagger / OpenAPI
 - ChatGPT
-- Claude
