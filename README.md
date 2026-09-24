@@ -50,13 +50,11 @@ Completed:
 - Dashboard
 - Customer management UI
 - Booking UI
-- [actual completed screens]
-- [actual completed screens]
 
 In progress:
 
-- [remaining screens]
-- [remaining screens]
+- Equipments
+- Payments
 
 ## Technology Stack
 
@@ -69,9 +67,9 @@ In progress:
 - REST APIs
 
 ### Frontend
-- [your actual frontend framework]
-- [actual UI library]
-- [actual styling framework]
+- Node.js
+- TypeScript
+- FastAPI
 
 ### Development
 - Git
